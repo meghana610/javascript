@@ -1,0 +1,29 @@
+History of javascript (js) 
+1995= created by brendan eich at netscape in just 10 days.
+originally calledd mocha,then LIVESCRIpt,finally renamed javascript (even though its not related to java).
+designed to add interactivity to webpages.
+standardized underr ECMASCIPT(first standard in 1997)
+grew over time from small scripts = full web apps+backened(node.js)desktop
+
+1) What is javascript?
+Javascript is a high level,intrepreted,multi-paradigm programming language
+It runs mainly in the browser but also on severs(Node.js)
+Its dynamic(types can change),event driven,and support object oriented,functional,and imperative styles
+Often paired with HTML + CSS to built web apps
+
+2)Why is Javascript?
+Browser-native = runs directly in all modren browers
+Versatile = Frontend (React,Value),backend(Node.js),mobile(React Native),desktop(Electron),iot,and AI/ML
+Massive ecosystem=libraries,frameworks,npm packages
+Active community=tones of tools,tutorials,and updates
+Asynchronous=handles events,promisses api smoothly
+
+Use cases of Javascript
+* Building interactive websites( animations,form validation,dynamic content)
+* Delevoping single-page applications(SPAs)(REACT,ANGULAR,VUE)
+* CREATING MOBILE APPS (react Native,Ionic) 
+* Writing backend services(node.js+express)
+* Making desktop apps (electron,tauri)
+* Building browser extensionsW
+* Working with real-time apps(chats,live updates,websockets)
+* Even game development ,IOT projects,and ml experiments
