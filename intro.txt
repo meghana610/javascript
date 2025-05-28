@@ -18,7 +18,7 @@ Massive ecosystem=libraries,frameworks,npm packages
 Active community=tones of tools,tutorials,and updates
 Asynchronous=handles events,promisses api smoothly
 
-Use cases of Javascript
+3)Use cases of Javascript
 * Building interactive websites( animations,form validation,dynamic content)
 * Delevoping single-page applications(SPAs)(REACT,ANGULAR,VUE)
 * CREATING MOBILE APPS (react Native,Ionic) 
@@ -27,3 +27,14 @@ Use cases of Javascript
 * Building browser extensionsW
 * Working with real-time apps(chats,live updates,websockets)
 * Even game development ,IOT projects,and ml experiments
+
+4)What is EcmaScript?
+EcmaScript is a standard on which javascript is based.
+It was created to ensure that different documents on javascript are actually talking about the same language.
+Javascropt and EcmaScript can almost be used interchangably.
+Javascript is very liberal in what it allows.
+
+5)How to execute JavaScript?
+JavaScript can be executed right inside one's browser.
+You can open the javascript console ansd start writing javascript there.
+Another way to execute javascript isa aruntime like Node.js which can be installed and used to run javascript code
